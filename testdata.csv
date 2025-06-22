@@ -1,0 +1,4 @@
+search_value,expected_count
+shirt,3
+shoes,2
+invalid_item,0
